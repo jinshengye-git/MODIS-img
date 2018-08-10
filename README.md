@@ -1,0 +1,2 @@
+# MODIS-img
+mosaic, resample
