@@ -1,6 +1,5 @@
 # MODIS-img
-mosaic, resample
-
+This is an example of using MODIS resample tools: mosaic, resample
 
 Try the following links to download the MODIS MOD09GA .hdf files .   
 https://drive.google.com/open?id=1rYV41AEBJd1yEe7nYHuAbL5HYzPzrYP9 .   
